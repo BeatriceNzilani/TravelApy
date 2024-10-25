@@ -1,0 +1,55 @@
+h1#heading1{
+    text-align: center;
+}
+.paragraph{
+    font-family: "Curlz MT";
+    font-size: 19px;
+}
+#div1{
+    background: saddlebrown;
+    margin: 40px;
+    padding: 30px;
+    color: white;
+}
+#div2{
+    padding: 30px;
+    margin: 40px;
+    background: blue;
+    display: flex;
+    color: white;
+}
+#div2 img{
+border-radius: 400px;
+    margin-right: 40px;
+    display: flex;
+
+}
+#main{
+    display: flex;
+}
+#adve{
+    background:olivedrab;
+    color: white;
+    margin-left: 20px;
+    padding: 30px;
+    box-shadow: 10px 8px 8px 4px gray;
+}
+#acc{
+    background: #dc664b;
+    color: white;
+    margin-left: 20px;
+    padding: 30px;
+        box-shadow: 10px 8px 8px 4px gray;
+
+}
+#pay{
+    background: #5d81cd;
+margin-left: 20px;
+    padding: 30px;
+    color: white;
+        box-shadow: 10px 8px 8px 4px gray;
+
+}
+#adve:hover,#acc:hover,#pay:hover{
+    background: gray;
+}
